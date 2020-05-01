@@ -4,7 +4,7 @@ function change() {
     var y = document.getElementById("p2");
     var z = document.getElementById("p3");
     var a = document.getElementById("p4");
-    if (x.className === "profile" && y.className === "details bold" && z.className === "links" &&  a.className === "details" ) {
+    if (x.className === "profile" && y.className === "name bold" && z.className === "links" &&  a.className === "details" ) {
       
         x.className += " dark";
         
