@@ -16,7 +16,7 @@ function change() {
       document.body.style.transition="1s ease-in-out";
     } else {
       x.className = "profile";
-      y.className = "details bold";
+      y.className = "name bold";
       z.className = "links";
       a.className="details"
       document.body.style.backgroundColor = "white";
