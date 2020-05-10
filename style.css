@@ -58,6 +58,20 @@ display: block;
     background-color: black;
     color: white;
 }
+.nameboard{
+    visibility: hidden;
+    border: 1px solid black;
+  padding: 10px;
+  top: 0;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  width: fit-content;
+  border-radius: 4px;
+  color: white;
+  background-color: #464646;
+}
+
 .links{
     margin-top: 10px;
 display: block;
@@ -76,10 +90,10 @@ margin-bottom: 30px;
 }
 
 .dark{
-    color: white;
+    color: #e4e6eb;
 }
 .dark a{
-color: white;
+color: #e4e6eb;
 }
 /*..........................................TOGGLE.....................................*/
 .switch {

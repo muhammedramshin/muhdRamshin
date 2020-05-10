@@ -26,3 +26,67 @@ function change() {
     
 
   }
+
+
+
+  
+ 
+  function mouseOver1() {
+    document.getElementById("n1").innerHTML = "Mail";
+     
+      setTimeout(function () {
+                    document.getElementById('n1').style.visibility = 'hidden';
+                }, 2000);
+                document.getElementById('n1').style.visibility = 'visible';
+  }
+  function mouseOver2() {
+    document.getElementById("n1").innerHTML = "Linkedin";
+    
+     
+      setTimeout(function () {
+                    document.getElementById('n1').style.visibility = 'hidden';
+                }, 2000);
+                document.getElementById('n1').style.visibility = 'visible';
+  }
+  
+  function mouseOver3() {
+    document.getElementById("n1").innerHTML = "Github";
+    
+     
+        setTimeout(function () {
+                    document.getElementById('n1').style.visibility = 'hidden';
+                }, 2000);
+                document.getElementById('n1').style.visibility = 'visible';
+  }
+
+  function mouseOver4() {
+    document.getElementById("n1").innerHTML = "My Works";
+    
+     
+        setTimeout(function () {
+                    document.getElementById('n1').style.visibility = 'hidden';
+                }, 2000);
+                document.getElementById('n1').style.visibility = 'visible';
+  }
+  function mouseOver5() {
+    document.getElementById("n1").innerHTML = "My Blog";
+    
+     
+        setTimeout(function () {
+                    document.getElementById('n1').style.visibility = 'hidden';
+                }, 2000);
+                document.getElementById('n1').style.visibility = 'visible';
+  }
+
+
+  function mouseOver6() {
+    document.getElementById("n1").innerHTML = "Social Links";
+    
+     
+        setTimeout(function () {
+                    document.getElementById('n1').style.visibility = 'hidden';
+                }, 2000);
+                document.getElementById('n1').style.visibility = 'visible';
+  }
+
+  
