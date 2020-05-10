@@ -59,10 +59,12 @@ display: block;
     color: white;
 }
 .nameboard{
+    position: fixed;
     visibility: hidden;
     border: 1px solid black;
   padding: 10px;
-  top: 0;
+  bottom: 10px;
+  left:45% ;
   text-align: center;
   margin-right: auto;
   margin-left: auto;
