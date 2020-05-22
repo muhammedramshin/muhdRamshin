@@ -45,6 +45,7 @@ margin-left: auto;
 margin-right: auto;
 text-align: center;
 
+
 }
 .btn{
 display: block;
@@ -64,7 +65,8 @@ display: block;
     border: 1px solid black;
   padding: 10px;
   bottom: 10px;
-  left:45%;
+  left:50%;
+  transform: translate(-50%,-5px);
   text-align: center;
   margin-right: auto;
   margin-left: auto;
