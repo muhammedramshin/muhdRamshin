@@ -181,3 +181,15 @@ color: #e4e6eb;
       max-height: 25px;
     }
     
+
+    /* certificates */
+
+    .certi{
+        margin-right: auto;
+    margin-left: auto;
+    display: block;
+    width: 300px;
+    margin-top: 100px;
+    border: 20px solid #311717;
+    box-shadow: 0px 0px 10px 0px #e2dfdf;
+    }
